@@ -67,7 +67,7 @@ h6 {
 .jumbotron {
   margin: auto;
   width: 100%;
-  background: url(./img/Jumbotron.png); /*Установит фон элемента*/
+  background: url(../img/Jumbotron.png); /*Установит фон элемента*/
   background-size: cover; /*Масштабирует фоновое изображение, согласно заданным размерам*/
   background-position: center center;
   margin-top: 84px; /* Устанавливает величину отступа от верхнего края элемента */
@@ -103,7 +103,7 @@ h6 {
 
 .hero {
   width: 100%;
-  background: url(./img/Hero.png);
+  background: url(../img/Hero.png);
   background-size: cover; /*Масштабирует фоновое изображение, согласно заданным размерам*/
   background-position: center center;
   padding-top: 128px; /*Устанавливает значение поля от верхнего края содержимого элемента*/
